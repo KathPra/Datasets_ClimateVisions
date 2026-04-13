@@ -1,6 +1,8 @@
 # Towards Understanding Climate Change Perceptions: A Social Media Dataset
 This repo contains the official release for [Towards Understanding Climate Change Perceptions: A Social Media Dataset](https://www.climatechange.ai/papers/neurips2023/3) by [K.Prasse](https://www.uni-mannheim.de/dws/people/researchers/phd-students/katharina-prasse/), [S. Jung](https://jung.vision/), [I. Bravo](https://www.researchgate.net/profile/Isaac-Bravo-3), [S. Walter](https://www.professoren.tum.de/tum-junior-fellows/walter-stefanie), and [M. Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/).
 
+Update: Given the updated X research access regulations, we are no longer allowed to share image links and have therefore removed them from the repo. Shortly, we will share image Twitter IDs to retrieve the images using the official X Api.
+
 ## Dataset Description
 The image data is provided in the form image urls of X/Twitter images from the year 2019 in the context of climate change ("climatechange" or "climate change" or #climatechange).
 Each downloaded image is either in ClimateCT or ClimateTV.
